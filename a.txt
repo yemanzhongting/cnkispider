@@ -7,4 +7,3 @@
 /kns/detail/detail.aspx?QueryID=0&CurRec=821&DbCode= CJFD&dbname=CJFD2008&filename=SYSY200801042&urlid=&yx=
 /kns/detail/detail.aspx?QueryID=0&CurRec=2078&DbCode= CJFD&dbname=CJFDLAST2018&filename=DKXB201806003&urlid=&yx=
 /kns/detail/detail.aspx?QueryID=0&CurRec=2073&DbCode= CJFD&dbname=CJFD2013&filename=IAOB201303035&urlid=&yx=
-/kns/detail/detail.aspx?QueryID=0&CurRec=1944&DbCode= CJFD&dbname=CJFD2006&filename=JFJC200606010&urlid=&yx=
